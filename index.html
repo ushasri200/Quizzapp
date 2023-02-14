@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Quiz App</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Quiz App</h1>
+		<div id="quiz">
+			<form id="quiz-form" onsubmit="return submitAnswers()">
+				<!-- Question 1 -->
+				<h3>Question 1</h3>
+				<input type="radio" name="q1" value="a">Answer 1<br>
+				<input type="radio" name="q1" value="b">Answer 2<br>
+				<input type="radio" name="q1" value="c">Answer 3<br>
+
+				<!-- Question 2 -->
+				<h3>Question 2</h3>
+				<input type="radio" name="q2" value="a">Answer 1<br>
+				<input type="radio" name="q2" value="b">Answer 2<br>
+				<input type="radio" name="q2" value="c">Answer 3<br>
+
+				<!-- Question 3 -->
+				<h3>Question 3</h3>
+				<input type="radio" name="q3" value="a">Answer 1<br>
+				<input type="radio" name="q3" value="b">Answer 2<br>
+				<input type="radio" name="q3" value="c">Answer 3<br>
+
+				<!-- Add more questions here -->
+
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
