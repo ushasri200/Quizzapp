@@ -10,17 +10,21 @@ To get started with the quiz app, follow these steps:
 
 Take the quiz and see your results!
 
-Usage
-The quiz app displays 15 questions and allows the user to select one answer per question. To take the quiz, simply select the radio button that corresponds to the answer you think is correct. When you have answered all of the questions, click the "Submit" button to see your results.
+##Usage
 
-Contributing
-If you would like to contribute to the quiz app, feel free to fork the repository and submit a pull request. Contributions are always welcome!
+     The quiz app displays 15 questions and allows the user to select one answer per question. To take the quiz, simply select the radio button that corresponds to the answer you think is correct. When you have answered all of the questions, click the "Submit" button to see your results.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+##Contributing
 
-Acknowledgments
-This quiz app was built following the tutorial from W3Schools.
+    If you would like to contribute to the quiz app, feel free to fork the repository and submit a pull request. Contributions are always welcome!
+
+##License
+
+    This project is licensed under the MIT License. See the LICENSE file for more information.
+
+##Acknowledgments
+
+    This quiz app was built following the tutorial from W3Schools.
 
 
 
